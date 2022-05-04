@@ -1,4 +1,5 @@
 {
-  "USERNAME1": "xxxx@gmail.com",
-  "PASSWORD1": "xxxxx"
+  "URL_ADMIN": "http://localhost:2368/ghost/#/signin",
+  "USERNAME1": "df.rojasr1@uniandes.edu.co",
+  "PASSWORD1": "abcd1234567"
 }
